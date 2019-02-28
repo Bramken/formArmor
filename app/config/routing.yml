@@ -1,4 +1,5 @@
 form_armor:
     resource: "@FormArmorBundle/Resources/config/routing.yml"
     prefix:   /formarmor
-
+fos_user:
+    resource: "@FOSUserBundle/Resources/config/routing/all.xml"
